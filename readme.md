@@ -1,6 +1,6 @@
 # Portfolio Demo Website
 
-A simple portfolio static website using HTML and CSS. Designed to demostrate capability with responsive webpage design over multiple device sizes. 
+A simple portfolio static website using HTML and CSS. Designed to demostrate capability with responsive webpage design over multiple device sizes. Uses a default mobile design, scaling this up for tablet and desktop screen resolutions using media queries. 
 
 ## Installation
 
